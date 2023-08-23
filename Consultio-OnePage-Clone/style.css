@@ -1,0 +1,60 @@
+/* Fonts */
+
+
+/* Universal Styling */
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* Navbar */
+
+
+
+/* First Section */
+.FirstSecColOne {
+    background-image: url(Assets/fancybox1.jpg);
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+
+.FirstSecColTwo {
+    background-image: url(Assets/fancybox2.jpg);
+    height: 30vh;
+    width: 100%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+
+.FirstSecColThree {
+    background-image: url(Assets/update-service-01.jpg);
+    height: 30vh;
+    margin-right: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+
+.FirstSecColFour {
+    background-image: url(Assets/fancybox1.jpg);
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: grayscale(100%);
+}
+
+.firstSection{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.firstSection h4 {
+    color: white;
+}
