@@ -50,11 +50,22 @@
     filter: grayscale(100%);
 }
 
-.firstSection{
+.firstSection {
     width: 90%;
     margin: 0 auto;
 }
 
 .firstSection h4 {
     color: white;
+}
+
+/* Seventh Section */
+
+.seventhSectionMain {
+    background-image: url(Assets/bg-section-05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    /* left: -164.444px; */
 }
